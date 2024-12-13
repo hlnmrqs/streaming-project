@@ -1,0 +1,10 @@
+[packages]
+black = "*"
+flake8 = "*"
+isort = "*"
+pip = "*"
+python-dotenv = "*"
+"projeto_de_streaming" ={editable = true, path = "."}
+
+[requires]
+python_version = "3.12"
